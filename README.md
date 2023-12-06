@@ -1,1 +1,1 @@
-Fixed RTDETR GFLOPs bug (#7309)
+Add TensorRT Docs Integrations Page (#7855)
