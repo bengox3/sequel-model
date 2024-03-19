@@ -1,1 +1,1 @@
-Add simple-utilities.md Docs page (#8269)
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
